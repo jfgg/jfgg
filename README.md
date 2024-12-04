@@ -1,5 +1,4 @@
 ### Hi there 👋 // Hola 👋
-<img src="https://scontent.fcen2-1.fna.fbcdn.net/v/t1.0-9/152776539_10224873577535788_3033256196085113379_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeEV9eLxTUmk5WTkvBtdxQahRbbYkdhUueJFttiR2FS54vOIBPyi5763X1o_f7_BZj4&_nc_ohc=JnYWPPpNqDoAX8n1-Qr&_nc_ht=scontent.fcen2-1.fna&oh=bd4fcdc1990636bc8cbbd675988d3fdf&oe=6081CE2A" />
 
 ¡Hola! Bienvenido a mi perfil de GitHub, ya no programo tanto como antes porque ahora me toca hacer más trabajo administrativo pero siempre es bueno tener bien estructurado tu perfil para que lo puedas compartir rápido.
 
